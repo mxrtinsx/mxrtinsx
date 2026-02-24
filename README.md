@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  <strong><code><em>Desenvolvedor Full-Stack - Estudante de Ciência da Computação</code></em></strong>
+  <strong><code style=color:limegreen><em>Desenvolvedor Full-Stack - Estudante de Ciência da Computação</code></em></strong>
   <br>
-  <strong><code><em>✈️ Full-Stack Developer - Computer Science Student</code></em></strong>
+  <strong><code style=color:limegreen><em>✈️ Full-Stack Developer - Computer Science Student</code></em></strong>
 </p>
 
 ## 🕸️Sobre Mim | About me
