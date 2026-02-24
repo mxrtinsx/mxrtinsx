@@ -1,5 +1,6 @@
-<div style="text-align: center;">
-  <h2>Gabriel</h2>
+<div align="center">
+
+  <h1>Gabriel</h1>
 </div>
 
 <p>:mortar_board: Computer science student on UNIP, from Brazil</p>
