@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 90px;">Gabriel</h1>
+<h1 align="center" style="font-size: 120px;">Gabriel</h1>
 
 <p>:mortar_board: Computer science student on UNIP, from Brazil</p>
 <p>:test_tube: Also studying through alura courses </p>
