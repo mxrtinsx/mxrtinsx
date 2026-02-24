@@ -1,4 +1,6 @@
-## Hi, I’m Gabriel
+<div style="text-align: center;">
+  <h2>Gabriel</h2>
+</div>
 
 <p>:mortar_board: Computer science student on UNIP, from Brazil</p>
 <p>:test_tube: Also studying through alura courses </p>
