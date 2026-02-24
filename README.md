@@ -2,10 +2,8 @@
   <span style="font-size: 100px;">Gabriel</span>
 </h1>
 
-<p>:mortar_board: Computer science student on UNIP, from Brazil</p>
-<p>:test_tube: Also studying through alura courses </p>
-<p>:ringed_planet: Looking forward to be a full-stack developer</p> 
-<p>:mailbox: All my links here -> linktr.ee/mxrtinsx </p>
+<p>:mortar_board: Olá! Me chamo Gabriel Martins, tenho 21 anos e moro na cidade de Hortolândia, Brasil. No momento estou fazendo graduação na UNIP no curso de Ciência da Computação. Trabalho como Desenvolvedor Full Stack, especializado em tecnologias como JavaScript, Python, Node.js e React.</p>
+
 
 ## Languages I'm studying
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"  /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" width="40" height="40" />
