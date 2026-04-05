@@ -17,7 +17,7 @@
       <span style="font-size:20px;">🕸️Sobre Mim | About me
     </h1>
     <td>
-      <img src="https://github.com/mxrtinsx/teste-gif/blob/1c8bf9290abde8845761ef07b7b10b422107a6f4/3c409aozw7hf1.gif?raw=true" width="1350" />
+      <img src="https://github.com/mxrtinsx/teste-gif/blob/1c8bf9290abde8845761ef07b7b10b422107a6f4/3c409aozw7hf1.gif?raw=true" width="350" />
     </td> 
     <td>
       <p>Olá, me chamo Gabriel Martins, tenho 21 anos e moro no estado de São Paulo, Brasil. Sou estudante de Ciência da Computação na UNIP e tenho grande entusiasmo por tecnologia desde novo! Atualmente, minhas principais tecnologias são <strong>Python</strong>, <strong>JavaScript</strong> e um pouco de <strong>C</strong>, que uso para desenvolver meus projetos e colocar em prática tudo o que venho aprendendo.
